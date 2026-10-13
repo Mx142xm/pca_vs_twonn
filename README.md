@@ -92,13 +92,3 @@ Run the experiment:
 ```bash
 python src/experiment.py
 ```
-
-## Repository Structure
-
-```text
-intrinsic-dimension-mini-project/
-├── README.md
-├── requirements.txt
-└── src/
-    └── experiment.py
-```
